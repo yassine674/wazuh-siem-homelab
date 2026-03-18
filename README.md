@@ -312,51 +312,9 @@ Contributions are welcome! Please feel free to:
 - Share dashboard improvements
 - Submit pull requests
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Yassine Moumoun**
-
-- 🎓 Computer Engineering & Cybersecurity Student at INSA Hauts-de-France
-- 💼 Cybersecurity Enthusiast | SOC Operations | SIEM Engineering
-- 📧 Email: [yassine127mn@gmail.com](mailto:yassine127mn@gmail.com)
-- 🔗 LinkedIn: [Yassine Moumoun](https://www.linkedin.com/in/yassine-moumoun)
-- 🐙 GitHub: [@yassine674](https://github.com/yassine674)
-
----
-
 <div align="center">
 
 **⭐ If you found this project helpful, please star the repository!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yassine674/wazuh-siem-homelab?style=social)](https://github.com/yassine674/wazuh-siem-homelab)
-[![GitHub forks](https://img.shields.io/github/forks/yassine674/wazuh-siem-homelab?style=social)](https://github.com/yassine674/wazuh-siem-homelab/fork)
-
-*Built with 🔐 for defensive cybersecurity learning*
-
 </div>
-```
 
----
-
-## 🎨 **STRUCTURE DU README**
-
-Ce README contient :
-
-✅ **Header attractif** avec badges professionnels  
-✅ **Table des matières** pour navigation rapide  
-✅ **Architecture visuelle** (diagramme ASCII)  
-✅ **Guide installation** step-by-step  
-✅ **Exemples de configuration** avec code  
-✅ **Use cases concrets** avec alertes  
-✅ **Screenshots** (à ajouter)  
-✅ **Learning outcomes** mesurables  
-✅ **Ressources** pour approfondir  
-✅ **Author section** professionnelle  
