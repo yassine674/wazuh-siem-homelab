@@ -314,7 +314,7 @@ Contributions are welcome! Please feel free to:
 
 <div align="center">
 
-**⭐ If you found this project helpful, please star the repository!⭐ **
+**⭐ If you found this project helpful, please star the repository⭐! **
 
 </div>
 
